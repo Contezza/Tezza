@@ -54,22 +54,9 @@ Hieronder de verschillende omgevingen en URL's die beschikbaar zijn. De omgeving
 | Contezza Admin Tools                            | https://dev.tezza.eu/contezza-admin-tools | https://demo.tezza.eu/contezza-admin-tools |
 | Contezza Migration                              | https://dev.tezza.eu/contezza-migration   | https://demo.tezza.eu/contezza-migration   |
 | Contezza Teams App                              | https://dev.tezza.eu/contezza-teams       | https://demo.tezza.eu/contezza-teams       |
-| **Akten Apps**                                  |
-| Gemeente Utrechtse Heuvelrug App                | https://dev.tezza.eu/gemuhr-akten         | https://demo.tezza.eu/gemuhr-akten         |
-| Gemeente Amsterdam App                          | https://dev.tezza.eu/gemams-akten         | https://demo.tezza.eu/gemams-akten         |
-| **Alfresco Content Apps**                       |
-| Contezza App                                    | https://dev.tezza.eu/contezza-aca         | https://demo.tezza.eu/contezza-aca         |
-| Alfresco Content App                            | https://dev.tezza.eu/aca                  | https://demo.tezza.eu/aca                  |
-| **Misc Apps**                                   |
-| Process Workspace App (Alfresco)                | https://dev.tezza.eu/process-workspace    | https://demo.tezza.eu/process-workspace    |
 | **Alfresco Content Services**                   |
 | Alfresco Platform                               | https://dev.tezza.eu/alfresco             | https://demo.tezza.eu/alfresco             |
 | Alfresco Share                                  | https://dev.tezza.eu/share                | https://demo.tezza.eu/share                |
-| **Alfresco Process Services**                   |
-| Activiti App                                    | https://dev.tezza.eu/activiti-app         | https://demo.tezza.eu/activiti-app         |
-| Activiti Admin                                  | https://dev.tezza.eu/activiti-admin       | https://demo.tezza.eu/activiti-admin       |
-| **Camunda**                                     |
-| Camunda                                         | https://dev.tezza.eu/camunda              | https://demo.tezza.eu/camunda              |
 | **VNG Realisatie**                              |
 | Open Zaak                                       | https://dev-openzaak.tezza.eu             | https://demo-openzaak.tezza.eu             |
 | Open Notificaties                               | https://dev-notificaties.tezza.eu         | https://demo-notificaties.tezza.eu         |
@@ -77,11 +64,6 @@ Hieronder de verschillende omgevingen en URL's die beschikbaar zijn. De omgeving
 | **OpenGem**                                     |
 | Objects API                                     | https://dev-objecten.tezza.eu             | https://demo-objecten.tezza.eu             |
 | Objecttypes API                                 | https://dev-objecttypen.tezza.eu          | https://demo-objecttypen.tezza.eu          |
-| **Gemeente Utrecht**                            |
-| Backscan Archief                                | https://dev.tezza.eu/gemutr-bsa           | https://demo.tezza.eu/gemutr-bsa           |
-| Digiplaza Rapporten                             | https://dev.tezza.eu/gemutr-reports       | https://demo.tezza.eu/gemutr-reports       |
-| **Gemeente Amsterdam**                          |
-| RM App                                          | https://dev.tezza.eu/gemams-rm            | https://demo.tezza.eu/gemams-rm            |
 
 ## Development
 
